@@ -9,7 +9,7 @@
     <img src="https://via.placeholder.com/1200x500?text=Slide+2">
   </div>
   <div class="free-slide">
-    <img src="https://via.placeholder.com/1200x500?text=Slide+3">
+    <img src="https://github.com/shamshangchuan/-shamshangchuan/blob/master/elma.jpg/1200x500?text=Slide+3">
   </div>
 
   <button class="free-prev">&#10094;</button>
